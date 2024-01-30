@@ -1,0 +1,99 @@
+.About {
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.abtHeading {
+    color: #000;
+    font-family: Arial;
+    font-size: 40px;
+    /* font-style: normal; */
+    justify-content: center;
+
+
+}
+
+.abt {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    /* flex-shrink: 0; */
+}
+
+.abtImg {
+    width: 603px;
+    height: 366px;
+
+}
+
+.about-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* padding: 0; */
+    /* margin-bottom: 80px; */
+
+}
+
+.about-right {
+    width: 687px;
+    height: 366px;
+    background-color: #494366;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    /* Background color with opacity */
+    /* padding: 20px; */
+}
+
+.about-left {
+
+    /* width: 387px;
+    height: 566px; */
+    /* padding: 42px; */
+    justify-content: center;
+    align-items: center;
+    /* flex-shrink: 0; */
+    position: relative;
+    text-align: center;
+}
+
+.about-right p {
+    color: white;
+    text-align: center;
+    font-family: Inter;
+    font-size: 22px;
+}
+
+.ImgSponsor {
+    width: 115px;
+    height: 115px;
+    object-fit: cover;
+    margin: 10px;
+}
+
+.imgContainer {
+    width: 100%;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+
+.sunHeading {
+    color: #000;
+    font-size: 24px;
+}
+
+.Service{
+    margin: 50px;
+}
+
+.ServiceTxt{
+    color: #4c433e;
+    font-family: Inter;
+}

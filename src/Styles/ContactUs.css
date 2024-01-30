@@ -1,0 +1,36 @@
+.ContactMain {
+    align-items: center;
+    align-content: center;
+    text-align: center;
+
+}
+
+.ContactDiv{
+    /* width: 687px;
+height: 366px; */
+background-color: #9c646c;
+justify-content: center;
+align-items: center;
+text-align: center;
+padding: 10px;
+position: relative;}
+
+.Title {
+    font-family: Arial;
+    font-size: 40px;
+    color: #000;
+    justify-content: center;
+}
+
+.top {
+    color: #000;
+    font-family: Inter;
+    font-size: 32px;
+    margin-bottom: -30px;
+}
+
+.bottom {
+    color: white;
+    font-family: Inter;
+    font-size: 32px;
+}
